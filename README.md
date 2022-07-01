@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Salome Chitubila (MSc.)
 - 👀 I’m interested in building different applications, working on fascinating projects and sharing with the world
-- 🌱 I’m currently learning about thediffeent deployment strategies in kubernetes including Istio service mesh...
-- 💞️ I’m looking to collaborate on any project I could be of help in bringing progress to the department and the company at large
+- 🌱 I’m currently learning about different deployment strategies in kubernetes including Istio service mesh...
+- 💞️ I’m looking forward to collaborating with anyone and work on any projects/plan to drive departmental success and that of the company at large
 - 📫 How to reach me (salome.chitubila@priceline.com  or @salomechit (https://github.com/salomechit)
 
 <!---
