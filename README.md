@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Salome Chitubila (MSc.
+- 👋 Hi, I’m Salome Chitubila (MSc.)
 - 👀 I’m interested in building different applications, working on fascinating projects and sharing with the world
 - 🌱 I’m currently learning about thediffeent deployment strategies in kubernetes including Istio service mesh...
 - 💞️ I’m looking to collaborate on any project I could be of help in bringing progress to the department and the company at large
